@@ -1,0 +1,33 @@
+FOR HOME :
+slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+slmgr /skms kms.xspace.in
+slmgr /ato
+
+FOR PRO :
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms.xspace.in
+slmgr /ato
+
+QUICK UPGRADE------>>>> VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+WINDOWS-PRO------>>>>>>> W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+Windows 10 Home
+Product Part No.: [TH]X19-9
+Installed from 'Volume' media.
+Product ID: 00326-30000-00001-AA262  match to CD Key data
+CD Key: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Computer Name: WIN-10
+Registered Owner:
+Registered Organization:
+
+
+Windows 10 Pro
+Product Part No.: [TH]X19-9
+Installed from 'Volume' media.
+Product ID: 00331-10000-00001-AA423  match to CD Key data
+CD Key: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Computer Name: WIN-10
+Registered Owner:
+Registered Organization:
+
